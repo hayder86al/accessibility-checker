@@ -28,7 +28,7 @@ cd accessibility-checker
 2. Install the required dependencies:
 
 ```bash
-npm install puppeteer @axe-core/puppeteer
+npm install
 ```
 
 ## Usage
@@ -38,7 +38,7 @@ npm install puppeteer @axe-core/puppeteer
 Run the script with a URL as an argument:
 
 ```bash
-node accessibility-checker.js https://example.com
+npm run start https://example.com
 ```
 
 The script will:
