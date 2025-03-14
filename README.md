@@ -21,7 +21,7 @@ A Node.js tool that evaluates web pages for accessibility compliance against WCA
 1. Clone this repository or download the script:
 
 ```bash
-git clone https://github.com/yourusername/accessibility-checker.git
+git clone https://github.com/hayder86al/accessibility-checker.git
 cd accessibility-checker
 ```
 
